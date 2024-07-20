@@ -1,0 +1,18 @@
+:root {
+  --background: #1F1F1F;
+  --border-color: #4e4e4e;
+  --border-thickness: 0.5px;
+
+  --box-red-color: #BA7363;
+  --box-yellow-color: #DBB28C;
+  --box-blue-color: #4A7A8E;
+  --box-purple-color: #534a8e;
+  --box-pink-color: #8e4a60;
+
+  --rounded-none: 0;
+  --rounded-xs: 2px;
+  --rounded-sm: 4px;
+  --rounded-md: 6px;
+  --rounded-lg: 8px;
+  --rounded-full: 9999px;
+}
