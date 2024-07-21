@@ -7,6 +7,6 @@
 // 웹 컴포넌트를 정의하고 사용하는 방법을 학습합니다.
 // - [ ] Custom Elements
 // - [ ] Lifecycle Callbacks
-// - [ ] Shadow DOM
+// - [ ] Shadow DOM (Encapsulation)
 // - [ ] Templates & Slots
 // --------------------------------------------------------------------------
