@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 6px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+img {
+  width: 64px;
+  height: 64px;
+}
+
+p {
+  margin-left: 20px;
+}
